@@ -17,8 +17,11 @@ I'm interested in **machine learning, data and building software end to end**, f
 ## Tech I use
 
 **Languages:** Python · JavaScript · TypeScript · Java · C · SQL · Haskell
+
 **ML & Data:** TensorFlow/Keras · scikit-learn · Pandas · NumPy · Hugging Face · Matplotlib/Plotly
+
 **Web:** React · Node.js · Dash
+
 **Tools:** Git · Jupyter · Google Cloud Platform · SQLite
 
 ## Contact
